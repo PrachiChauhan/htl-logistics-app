@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsApp", "LogisticsApp\LogisticsApp.csproj", "{3C20C830-E853-4B6A-BD86-D63157D1ECA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1.csproj", "{3B98709B-4078-445B-924C-E00C152AD28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C20C830-E853-4B6A-BD86-D63157D1ECA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C20C830-E853-4B6A-BD86-D63157D1ECA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C20C830-E853-4B6A-BD86-D63157D1ECA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C20C830-E853-4B6A-BD86-D63157D1ECA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B98709B-4078-445B-924C-E00C152AD28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B98709B-4078-445B-924C-E00C152AD28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B98709B-4078-445B-924C-E00C152AD28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B98709B-4078-445B-924C-E00C152AD28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE373AC-B653-4790-8739-0E37FF9710D5}
+	EndGlobalSection
+EndGlobal
